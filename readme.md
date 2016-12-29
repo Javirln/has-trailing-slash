@@ -17,7 +17,7 @@ Checks if `str` ends with `/`
 ## Example
 
 ```js
-var hasTrailingSlashes = require('has-trailing-slash')
+const hasTrailingSlashes = require('has-trailing-slash');
 
 expect(hasTrailingSlashes('http://google.com/')).to.be.true;
 ```
