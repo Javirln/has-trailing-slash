@@ -1,0 +1,31 @@
+{
+  "name": "has-trailing-slash",
+  "version": "1.0.1",
+  "description": "Check if a string has trailing slashses easily",
+  "scripts": {
+    "test": "./node_modules/mocha"
+  },
+  "author": {
+    "name": "Javi Rodriguez",
+    "email": "javier.rodleo@gmail.com",
+    "url": "http://about.me/javirln"
+  },
+  "repository": "https://github.com/Javirln/has-trailing-slash",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "slashes",
+    "slash",
+    "trailing",
+    "is",
+    "has",
+    "url",
+    "string",
+    "text",
+    "alphanumeric",
+    "check"
+  ]
+}
