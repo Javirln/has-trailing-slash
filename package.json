@@ -1,6 +1,6 @@
 {
   "name": "has-trailing-slash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if a string has trailing slashses easily",
   "scripts": {
     "test": "./node_modules/mocha/bin/_mocha --ui tdd test/"

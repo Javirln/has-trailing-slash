@@ -1,4 +1,4 @@
-# has-trailing-slash
+# has-trailing-slash ![Build Status](https://travis-ci.org/Javirln/has-trailing-slash.svg?branch=master) [![npm version](https://badge.fury.io/js/has-trailing-slash.svg)](https://badge.fury.io/js/has-trailing-slash) ![Dependency Status](https://david-dm.org/javirln/has-trailing-slash.svg)
 
 Checks if a string has a trailing slash
 
