@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Check if a string has trailing slashses easily",
   "scripts": {
-    "test": "./node_modules/mocha"
+    "test": "./node_modules/mocha/bin/_mocha --ui tdd test/"
   },
   "author": {
     "name": "Javi Rodriguez",
