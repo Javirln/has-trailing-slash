@@ -5,7 +5,7 @@
  * @param str String to check
  * @returns {boolean} true if the @param ends with /
  */
-module.exports = (str) => {
+module.exports = function (str) {
     if (typeof str !== 'string' || str == null) {
         throw TypeError('Expected a string');
     } else {
